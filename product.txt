@@ -1,0 +1,6 @@
+bandage
+drugs
+medical scissors
+medical stores
+tablets
+tonic
